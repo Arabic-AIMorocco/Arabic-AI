@@ -1,4 +1,4 @@
-**CA:** Not released
+# **CA:** Not released
 
 # ArabicAi 🤖
 - Introducing Artificial Intelligence in Arabic starting with Morocco powered by Solana
